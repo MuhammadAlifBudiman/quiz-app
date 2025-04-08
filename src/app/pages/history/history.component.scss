@@ -1,25 +1,35 @@
 .container {
-  padding: 20px;
+  padding: 30px 15px;
+  max-width: 800px;
+  margin: auto;
 }
 
 h1 {
   text-align: center;
+  font-size: 30px;
   margin-bottom: 20px;
-  font-size: 36px;
+  color: #222;
 }
 
 ul {
   list-style-type: none;
+  padding: 0;
 }
 
 .history-item {
-  background-color: #f4f4f4;
-  margin-bottom: 10px;
-  padding: 10px;
-  border-radius: 5px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
+  background-color: #fafafa;
+  margin-bottom: 12px;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid #e3e3e3;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
 
-.history p {
-  margin: 5px 0;
+  p {
+    margin: 5px 0;
+    color: #444;
+  }
+
+  strong {
+    color: #007acc;
+  }
 }
