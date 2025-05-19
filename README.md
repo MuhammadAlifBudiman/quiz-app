@@ -1,6 +1,22 @@
 # QuizzApp
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
+This project is part of the Udemy course [30 Days of Angular: Build 30 Web Projects with Angular](https://www.udemy.com/course/30-days-of-angular/). It is designed to help learners build a comprehensive understanding of Angular by creating a fully functional quiz application.
+
+## Project Overview
+
+The QuizzApp allows users to:
+
+- Create quizzes with custom questions.
+- Attempt quizzes and view their scores.
+- View the history of attempted quizzes.
+
+The application is built using Angular CLI version 19.0.6 and follows best practices for Angular development.
+
+## Features
+
+- **Quiz Creation**: Users can create quizzes with multiple questions.
+- **Quiz Attempt**: Users can take quizzes and receive instant feedback.
+- **History Tracking**: A history of all attempted quizzes is maintained.
 
 ## Development server
 
